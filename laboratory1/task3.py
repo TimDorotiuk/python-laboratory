@@ -30,4 +30,4 @@ while True:
         continue
     else:
         break
-print('Роботу з програмою завершено')
+print('Роботу з програмою завершено!')
